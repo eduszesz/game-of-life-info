@@ -1,0 +1,3 @@
+O App Game of Life utiliza o Google AdMob para veiculação de anúncios. O App coleta identificadores de dispositivo (Advertising ID) para fins de Publicidade e Análise (devido ao SDK do AdMob).
+
+The Game of Life app uses Google AdMob to serve advertisements. The app collects device identifiers (Advertising ID) for advertising and analytics purposes (due to the AdMob SDK).
